@@ -36,7 +36,7 @@ The **Wave Function Collapse Algorithm** on the other hand is a computational te
 
 # Controls
 ### <ins>Image capture:</ins>
-**Liked what you generated? Save it!**
+**Like what you generated? Save it!**
 
 Press <kbd>v</kbd> to **capture** your lovely render as a ``.png``!
 
