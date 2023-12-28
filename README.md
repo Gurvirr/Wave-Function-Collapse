@@ -4,7 +4,7 @@
 # About
 In quantum physics, a wave function **collapses** when it transitions from a hypothetical **superposition** -- a phenomenon that allows a quantum system to exist in multiple states at once -- to a **singular** state. 
 
-On the other hand, the **Wave Function Collapse Algorithm** is a computational technique used in artificial intelligence and procedural generation. The algorithm iterates through each cell in a definitive grid which all begin with the same possiblity of potential, distinct patterns called **tiles**. The initial possibility of unique tiles in a singular cell is equal to the total number of tiles. These possibilities are named the **entropy** of the cell and begin to decrease when the program accounts for tile neighbours and the preset constraints of each tile. This causes these patterns to **collapse** into a coherent and visually appealing result.
+The **Wave Function Collapse Algorithm** on the other hand is a computational technique used in artificial intelligence and procedural generation. The algorithm iterates through each cell in a definitive grid which all begin with the same possiblity of potential, distinct patterns called **tiles**. The initial possibility of unique tiles in a singular cell is equal to the total number of tiles. These possibilities are named the **entropy** of the cell and begin to decrease when the program accounts for tile neighbours and the preset constraints of each tile. This causes these patterns to **collapse** into a coherent and visually appealing result.
 
 # Usage
 #### To begin generating your own patterns...
@@ -33,3 +33,17 @@ On the other hand, the **Wave Function Collapse Algorithm** is a computational t
 
 ### Module T:
 ![T](https://github.com/Gurvirr/Wave-Function-Collapse/assets/99685253/a4c2e6fc-76bb-4499-995a-2dfe346eeeba)
+
+# Controls
+### <ins>Image capture:</ins>
+**Liked what you generated? Save it!**
+
+Press <kbd>v</kbd> to **capture** your lovely render as a ``.png``!
+
+# How does it work?
+
+The **Wave Function Collapse Algorithm** can become very difficult to comprehend and oftentimes unnecessarily convoluted, especially with more advanced adaptations. My goal while working on this adaptation of the algorithm was to make it as **straightforward**, **efficient** and **simplified** as possible, which I believe I have accomplished seeing how the entire program is only **65** lines.
+
+As previously established the algorithm **procedurally generates** a pattern by considering the potential neighbours and constraints of the various tiles. To better understand how this **really** works, let's step back and take a look at the **Wave Function Collapse Algorithm** in action:
+
+![WFC Demo](https://github.com/Gurvirr/Wave-Function-Collapse/assets/99685253/04c5f75f-4176-45bd-b9de-827d62194e84)
