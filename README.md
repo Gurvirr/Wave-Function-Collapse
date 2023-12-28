@@ -42,7 +42,7 @@ Press <kbd>v</kbd> to **capture** your lovely render as a ``.png``!
 
 # How does it work?
 
-The **Wave Function Collapse Algorithm** can become very difficult to comprehend and oftentimes unnecessarily convoluted, especially with more advanced adaptations. My goal while working on this adaptation of the algorithm was to make it as **straightforward**, **efficient** and **simplified** as possible, which I believe I have accomplished seeing how the entire program is only **65** lines.
+The **Wave Function Collapse Algorithm** can become very difficult to comprehend and oftentimes unnecessarily convoluted, especially with more advanced adaptations. My goal while working on **this** adaptation of the algorithm was to make it as **straightforward**, **efficient** and **simplified** as possible, which I believe I have accomplished seeing how the entire program is only **65** lines!
 
 As previously established the algorithm **procedurally generates** a pattern by considering the potential neighbours and constraints of the various tiles. To better understand how this **really** works, let's step back and take a look at the **Wave Function Collapse Algorithm** in action:
 
